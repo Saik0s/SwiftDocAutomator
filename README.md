@@ -14,15 +14,14 @@ SwiftDocAutomator is a powerful tool that automatically generates documentation 
 To install SwiftDocAutomator, simply clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/swift-doc-automator.git
-cd swift-doc-automator
+git clone https://github.com/Saik0s/SwiftDocAutomator.git
+cd SwiftDocAutomator
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 To use SwiftDocAutomator, run the following command:
-
 
 ```bash
 python main.py /path/to/your/swift/file.swift
